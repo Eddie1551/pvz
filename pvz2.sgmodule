@@ -1,0 +1,10 @@
+#!name=植物大战僵尸2中文版
+#!desc=高等植物代理
+
+[Rule]
+DOMAIN,sg.bls.mdt.qq.com,pvz2
+DOMAIN,oth.str.mdt.qq.com,pvz2
+DOMAIN-KEYWORD,xdrig.com,pvz2
+DOMAIN-KEYWORD,popcap.com.cn,pvz2
+DOMAIN-KEYWORD,talkyun.com.cn,pvz2
+DOMAIN-KEYWORD,ditwan.cn,pvz2
